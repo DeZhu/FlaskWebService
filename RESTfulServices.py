@@ -4,6 +4,7 @@ Env: python3.6
 Created on 2017-10-10 16:20:13
 @author: zhude
 使用 Python 和 Flask 框架来创建一个 RESTful 的 web service
+WEB开发调试工具：HTTPie
 
 HTTP 标准的方法有如下:
 HTTP 方法   行为                   示例
